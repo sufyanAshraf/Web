@@ -9,6 +9,7 @@ function add() {
     todos.push(task);
     document.getElementById('todos').innerText = todos;
 }*/
+/*
 getElementById it returns the element that has the ID attribute with the 
 specified value.
 push add task in todos array
